@@ -181,7 +181,6 @@ A DevOps pipeline implementing automated build, test, and deployment stages, app
 
 </div>
 
-> 💡 *Add badges here for any additional AWS, Cisco, or NPTEL certifications as you complete them.*
 
 
 ## 📊 GitHub Analytics
