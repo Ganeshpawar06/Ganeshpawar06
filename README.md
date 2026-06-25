@@ -1,15 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ganesh%20Pawar&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%26%20Data%20Science%20%7C%20DevOps&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ganesh%20Pawar&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Master's%20Student%20%7C%20AI%2FML%20%26%20Data%20Science%20%7C%20DevOps&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <a href="https://github.com/Ganeshpawar06">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+AI+%2F+ML+Enthusiast;Data+Science+%26+Generative+AI;DevOps+%7C+Agentic+AI+%7C+LLMs;Building+Intelligent%2C+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Master's+Student+%7C+AI+%2F+ML+Enthusiast;Data+Science+%26+Generative+AI;DevOps+%7C+Agentic+AI+%7C+LLMs;Building+Intelligent%2C+Scalable+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/DevOps-Certified%20Professional-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Pune%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
@@ -39,13 +38,13 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 
-I'm **Ganesh Pawar**, a software engineer based in **Pune, India**, focused on building intelligent, reliable, and production-ready systems at the intersection of **Software Engineering**, **Artificial Intelligence**, and **Data-Driven Infrastructure**.
+I'm **Ganesh Pawar**, a **I'm Ganesh Pawar, currently pursuing a Master's degree and passionate about Software Engineering, Artificial Intelligence, and Data Science.
 
-My core strength lies in writing clean, scalable **Python** and **Java** systems, backed by a solid foundation in **DevOps practices** — from CI/CD pipelines to containerized, cloud-ready deployments. I pair this engineering discipline with a strong and growing focus on **Machine Learning, Data Science, and Generative AI**, including hands-on work with **RAG (Retrieval-Augmented Generation)** pipelines and modern **LLM-based architectures**.
+My core strength lies in writing clean **Python** and **Java**, backed by a solid foundation in **DevOps practices** — from CI/CD pipelines to containerized, cloud-ready deployments. Alongside this, I'm actively building expertise in **Machine Learning, Data Science, and Generative AI**, with hands-on work in **RAG (Retrieval-Augmented Generation)** pipelines and modern **LLM-based architectures**.
 
-I care deeply about engineering systems that are not just functional, but **observable, automated, and built to scale** — applying the same rigor to a model pipeline as I would to a deployment pipeline.
+I care about learning to build systems that are not just functional, but **observable, automated, and built to scale** — applying the same discipline to a model pipeline as to a deployment pipeline.
 
-- 🔭 **Engineering Focus:** Backend systems, automation, and scalable infrastructure
+- 🎓 **Currently:** Pursuing a Master's degree, with a strong focus on AI/ML and Data Science
 - 🤖 **AI/ML Focus:** Machine Learning fundamentals, RAG pipelines, Generative AI applications
 - 📊 **Data Science:** Data-driven problem solving and model-backed decision systems
 - ⚙️ **DevOps:** CI/CD, containerization, and cloud-native deployment practices
@@ -53,9 +52,9 @@ I care deeply about engineering systems that are not just functional, but **obse
 
 ### 🎯 Open To
 ```yaml
-Roles:        Software Engineer • AI/ML Engineer • Data Science Engineer
-Engagement:   Full-time • Collaborative AI/ML Projects • Open Source
-Interests:    Agentic AI Systems • RAG Pipelines • LLM-Powered Applications
+Roles:        Internships • AI/ML Roles • Data Science Roles
+Engagement:   Internships • Collaborative AI/ML Projects • Open Source
+Interests:    Agentic AI Systems • Machine learning • LLM-Powered Applications
 ```
 
 <br clear="right"/>
@@ -144,7 +143,7 @@ An end-to-end data science pipeline covering ingestion, cleaning, exploratory an
 | **Performance** | Benchmarked model accuracy across multiple algorithms |
 | **Security** | Local, isolated data handling with no external data leakage |
 | **Impact** | Translates raw data into actionable, model-backed insights |
-| **Repository** | [`Add repository link`](https://github.com/Ganeshpawar06) |
+| **Repository** | [`https://github.com/Ganeshpawar06/Heart-Stroke-Prediction.git`](https://github.com/Ganeshpawar06) |
 
 > Focused on disciplined data science practice — clean preprocessing, honest evaluation, and reproducible results.
 
@@ -158,47 +157,17 @@ A DevOps pipeline implementing automated build, test, and deployment stages, app
 
 | Aspect | Details |
 |:--|:--|
-| **Stack** | Docker, Git, GitHub Actions, Cloud Infrastructure |
+| **Stack** | Docker, Kubernetes, GitHub Actions, Cloud Infrastructure |
 | **Scale** | Designed for repeatable, automated multi-stage deployments |
 | **Performance** | Reduced manual deployment overhead via pipeline automation |
 | **Security** | Secrets management and access-controlled deployment stages |
 | **Impact** | Demonstrates enterprise-grade DevOps automation practices |
-| **Repository** | [`Add repository link`](https://github.com/Ganeshpawar06) |
+| **Repository** | [`https://github.com/Ganeshpawar06/Kubernetes-Dashboard-kind-voting-App.git`](https://github.com/Ganeshpawar06) |
 
 > Built to apply DevOps Professional certification knowledge into a real, working automation pipeline.
 
 </details>
 
-> 💡 *Replace the placeholders above with your actual repository links, metrics, and project specifics.*
-
----
-
-## 💼 Experience
-
-### Software Engineer — `Add Company Name`
-**`Add Date Range`**
-
-> Add a one-line professional summary of your role and core focus area here.
-
-- Add a bullet point describing a key responsibility or system you worked on
-- Add a bullet point describing measurable impact (performance, scale, cost, reliability)
-- Add a bullet point describing collaboration, tooling, or process improvements
-
-> 💡 *Replace this section with your real role(s). If this is your first role, you can relabel this section "Internship" or "Academic Projects Experience."*
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:--|:--|
-| 🎓 **Oracle Certified DevOps Professional** | Certified in DevOps practices including CI/CD, automation, and cloud-native deployment workflows |
-
-</div>
-
----
 
 ## 📜 Certifications
 
@@ -209,33 +178,6 @@ A DevOps pipeline implementing automated build, test, and deployment stages, app
 <img src="https://img.shields.io/badge/Oracle-Certified%20DevOps%20Professional-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </div>
-
-> 💡 *Add badges here for any additional AWS, Cisco, or NPTEL certifications as you complete them.*
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/Ganeshpawar06">
-  <img src="https://img.shields.io/badge/LeetCode-Add%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/Ganeshpawar06">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Add%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/Ganeshpawar06">
-  <img src="https://img.shields.io/badge/HackerRank-Add%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/users/Ganeshpawar06">
-  <img src="https://img.shields.io/badge/CodeChef-Add%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-> 💡 *Replace `Ganeshpawar06` in each link above with your actual usernames on each platform.*
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -250,17 +192,7 @@ A DevOps pipeline implementing automated build, test, and deployment stages, app
 
 </div>
 
----
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ganeshpawar06&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -301,7 +233,6 @@ Exploring:
   - Production-grade LLM application design
 
 Open To:
-  - Software Engineering roles
   - AI/ML and Data Science opportunities
   - Collaborative open-source AI projects
 ```
@@ -328,7 +259,7 @@ Open To:
 
 <div align="center">
 
-*"Engineering reliable systems today, building intelligent ones for tomorrow."*
+*"Learning today's tools to build tomorrow's intelligent systems."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
