@@ -1,6 +1,5 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0ea5e9,100:2563eb&text=Ganesh%20Pawar&fontSize=40&fontColor=ffffff" />
-</div>
 
 <a href="https://github.com/Ganeshpawar06">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Master%27s+Student+%7C+AI+%2F+ML+Enthusiast;Data+Science+%26+Generative+AI;DevOps+%7C+Agentic+AI+%7C+LLMs;Building+Intelligent%2C+Scalable+Systems" alt="Typing SVG" />
