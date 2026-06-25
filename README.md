@@ -212,7 +212,7 @@ A DevOps pipeline implementing automated build, test, and deployment stages, app
 
 </div>
 
-> 💡 *Requires the [snake animation GitHub Action](https://github.com/Platane/snk) enabled on your profile repo to render.*
+> 💡 *Requires the [https://github.com/Platane/snk.git](https://github.com/Platane/snk) enabled on your profile repo to render.*
 
 ---
 
