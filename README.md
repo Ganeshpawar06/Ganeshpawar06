@@ -202,19 +202,7 @@ A DevOps pipeline implementing automated build, test, and deployment stages, app
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img width="95%" src="https://raw.githubusercontent.com/Ganeshpawar06/Ganeshpawar06/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> 💡 *Requires the [https://github.com/Platane/snk.git](https://github.com/Platane/snk) enabled on your profile repo to render.*
-
----
 
 ## 🎯 Current Focus
 
