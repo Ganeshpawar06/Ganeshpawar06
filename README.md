@@ -13,33 +13,30 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Master's+Student+%7C+AI+%2F+ML+Enthusiast;Data+Science+%26+Generative+AI;DevOps+%7C+Agentic+AI+%7C+LLMs;Building+Intelligent%2C+Scalable+Systems" alt="Typing SVG" />
   </a>
 
-</div>
+  <br><br>
 
-<br/>
+  <a href="https://www.linkedin.com/in/ganeshpawar06/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<img src="https://img.shields.io/badge/DevOps-Certified%20Professional-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" />
+  <a href="mailto:ganeshp0060@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<br/><br/>
+  <a href="https://github.com/Ganeshpawar06">
+    <img src="https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/ganeshpawar06/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ganeshp0060@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Ganeshpawar06">
-  <img src="https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <br><br>
 
-<br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Ganeshpawar06&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
 
-<img src="https://komarev.com/ghpvc/?username=Ganeshpawar06&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Ganeshpawar06?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/Ganeshpawar06?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=STARS" />
+  <img src="https://img.shields.io/github/followers/Ganeshpawar06?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS" />
+
+  <img src="https://img.shields.io/github/stars/Ganeshpawar06?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=STARS" />
 
 </div>
 
-<br/>
 
 ---
 
