@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?
-<a href="https://github.com/Ganeshpawar06">
-  <img src="https://readme-typing-svg.demolab.com?
-<br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0ea5e9,100:2563eb&text=Ganesh%20Pawar&fontSize=40&fontColor=ffffff" />
+</div>
+
+
 <img src="https://img.shields.io/badge/DevOps-Certified%20Professional-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" />
 
 <a href="https://github.com/Ganeshpawar06">
