@@ -192,7 +192,7 @@ A DevOps pipeline implementing automated build, test, and deployment stages, app
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshpawar06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd"/>
+
 
 </div>
 
